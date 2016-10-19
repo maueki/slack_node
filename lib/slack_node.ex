@@ -1,0 +1,2 @@
+defmodule SlackNode do
+end
